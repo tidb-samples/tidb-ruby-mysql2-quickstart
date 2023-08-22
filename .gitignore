@@ -17,6 +17,7 @@
 .byebug_history
 
 ## Specific to RubyMotion:
+.env
 .dat*
 .repl_history
 build/
